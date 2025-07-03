@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Your Name</h1>
+<h1 align="center">Hey 👋, I'm Swati Shah</h1>
 
 <p align="center">
   💻 Full Stack Developer | 🚀 AI Enthusiast | 🧠 Curious Learner <br>
